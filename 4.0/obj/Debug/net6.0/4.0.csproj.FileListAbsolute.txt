@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\bin\Debug\net6.0\4.0.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\bin\Debug\net6.0\4.0.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\bin\Debug\net6.0\4.0.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\bin\Debug\net6.0\4.0.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\bin\Debug\net6.0\4.0.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\refint\4.0.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\4.0.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\4.0\obj\Debug\net6.0\ref\4.0.dll
