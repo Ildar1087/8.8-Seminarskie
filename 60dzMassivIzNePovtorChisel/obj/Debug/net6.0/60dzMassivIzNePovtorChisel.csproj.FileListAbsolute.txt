@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\bin\Debug\net6.0\60dzMassivIzNePovtorChisel.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\bin\Debug\net6.0\60dzMassivIzNePovtorChisel.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\bin\Debug\net6.0\60dzMassivIzNePovtorChisel.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\bin\Debug\net6.0\60dzMassivIzNePovtorChisel.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\bin\Debug\net6.0\60dzMassivIzNePovtorChisel.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\refint\60dzMassivIzNePovtorChisel.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\60dzMassivIzNePovtorChisel.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\60dzMassivIzNePovtorChisel\obj\Debug\net6.0\ref\60dzMassivIzNePovtorChisel.dll
