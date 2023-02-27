@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\bin\Debug\net6.0\56dzNaimenSumma.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\bin\Debug\net6.0\56dzNaimenSumma.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\bin\Debug\net6.0\56dzNaimenSumma.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\bin\Debug\net6.0\56dzNaimenSumma.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\bin\Debug\net6.0\56dzNaimenSumma.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\refint\56dzNaimenSumma.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\56dzNaimenSumma.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\56dzNaimenSumma\obj\Debug\net6.0\ref\56dzNaimenSumma.dll
