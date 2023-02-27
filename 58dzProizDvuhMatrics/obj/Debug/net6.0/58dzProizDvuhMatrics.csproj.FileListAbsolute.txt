@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\bin\Debug\net6.0\58dzProizDvuhMatrics.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\bin\Debug\net6.0\58dzProizDvuhMatrics.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\bin\Debug\net6.0\58dzProizDvuhMatrics.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\bin\Debug\net6.0\58dzProizDvuhMatrics.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\bin\Debug\net6.0\58dzProizDvuhMatrics.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\refint\58dzProizDvuhMatrics.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\58dzProizDvuhMatrics.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\58dzProizDvuhMatrics\obj\Debug\net6.0\ref\58dzProizDvuhMatrics.dll
