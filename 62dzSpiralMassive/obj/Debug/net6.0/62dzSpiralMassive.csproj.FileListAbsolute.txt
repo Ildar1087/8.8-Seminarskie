@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\bin\Debug\net6.0\62dzSpiralMassive.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\bin\Debug\net6.0\62dzSpiralMassive.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\bin\Debug\net6.0\62dzSpiralMassive.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\bin\Debug\net6.0\62dzSpiralMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\bin\Debug\net6.0\62dzSpiralMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\refint\62dzSpiralMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\62dzSpiralMassive.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\62dzSpiralMassive\obj\Debug\net6.0\ref\62dzSpiralMassive.dll
