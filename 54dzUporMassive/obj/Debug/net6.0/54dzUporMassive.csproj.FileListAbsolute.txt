@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\bin\Debug\net6.0\54dzUporMassive.exe
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\bin\Debug\net6.0\54dzUporMassive.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\bin\Debug\net6.0\54dzUporMassive.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\bin\Debug\net6.0\54dzUporMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\bin\Debug\net6.0\54dzUporMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\refint\54dzUporMassive.dll
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\54dzUporMassive.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\8.8 семинарское\54dzUporMassive\obj\Debug\net6.0\ref\54dzUporMassive.dll
